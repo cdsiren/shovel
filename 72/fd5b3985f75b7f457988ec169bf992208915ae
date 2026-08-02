@@ -1,0 +1,24 @@
+shovel/task.go
+  s_9a99238bb63581::t_5e2605b0cb7b3e 234-244,256-260,266,272-298
+  s_9a99238bb63581::t_5171bf7345903e 299-300
+shovel/task_test.go
+  s_9a99238bb63581::t_6fa4d985a90cb0 234-272
+  s_9a99238bb63581::t_d9f242262d0ba2 67-72
+  s_9a99238bb63581::t_9b0f3b3547247b 93-98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "72fd5b3985f75b7f457988ec169bf992208915ae",
+  "prompts": {},
+  "sessions": {
+    "s_9a99238bb63581": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ec9d3da2-fcda-4e97-b1d0-0ed5ec7f3506",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Charlie Durbin <charlie@decent.xyz>"
+    }
+  }
+}

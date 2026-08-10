@@ -1,0 +1,25 @@
+shovel/stall.go
+  s_33aaa2e9b017b3::t_1ec6b1787d5ba0 1-142
+cmd/shovel/main.go
+  s_33aaa2e9b017b3::t_ab57d8f8518a77 64-65
+  s_33aaa2e9b017b3::t_f2247b59e4b42e 195-207
+  s_33aaa2e9b017b3::t_9e1553a5fc3ace 54
+shovel/stall_test.go
+  s_33aaa2e9b017b3::t_4d2ebedd898dad 1-90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "8f877aab8c2d48a5aa5cf3c90002703c41359efc",
+  "prompts": {},
+  "sessions": {
+    "s_33aaa2e9b017b3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56d6f067-dd79-419b-94e2-77c570224c09",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Charlie Durbin <charlie@decent.xyz>"
+    }
+  }
+}

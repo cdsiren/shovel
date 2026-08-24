@@ -1,0 +1,19 @@
+wpg/conn.go
+  s_6c1395ac4b2863::t_1d9da6fa32a0e9 26-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "b30932859e76fae69750129c2f4fceeb9abb7c8a",
+  "prompts": {},
+  "sessions": {
+    "s_6c1395ac4b2863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a8009a89-f197-4381-b69a-715c8da9d267",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Charlie Durbin <charlie@decent.xyz>"
+    }
+  }
+}
